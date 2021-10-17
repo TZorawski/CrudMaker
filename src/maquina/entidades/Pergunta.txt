@@ -1,0 +1,5 @@
+id;int;0
+descricao;String;1000
+gabarito;int;0
+tema;String;100
+moderador;String;50

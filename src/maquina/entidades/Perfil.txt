@@ -1,0 +1,4 @@
+nome;String;100
+sobrenome;String;100
+email;String;100
+pais;String;30

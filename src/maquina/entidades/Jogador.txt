@@ -1,0 +1,4 @@
+username;String;50
+senha;String;15
+pontuacaoIndividual;int;0
+perfil;Perfil;100

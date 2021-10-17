@@ -1,0 +1,3 @@
+nome;String;100
+descricao;String;1000
+moderador;Moderador;50
